@@ -1,6 +1,6 @@
-# 🧩 C Extensions – Beginner Friendly C Practice
+# 🧩 C Extension – Beginner Friendly C Practice
 
-Welcome to **C Extensions**! This repository is a collection of beginner-focused C programs, neatly organized by topic. Each folder includes practice problems with simple logic, clean code, and helpful comments — perfect for students and self-learners.
+Welcome to **C Extension**! This repository is a collection of beginner-focused C programs, neatly organized by topic. Each folder includes practice problems with simple logic, clean code, and helpful comments — perfect for students and self-learners.
 
 📝 Alongside code, this repo also includes **easy-to-read notes** and a few **real-world problem solvers** to deepen understanding and spark curiosity.
 
